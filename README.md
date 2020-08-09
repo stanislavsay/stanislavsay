@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 ### Recently I'm coding in...
 
-<img src="https://wakatime.com/share/@StanislavSay/3631bc0a-9140-40c0-bb0f-f5e74b7590a9.svg" alt="StanislavSay's Language Stats" />
+<img src="https://wakatime.com/share/@StanislavSay/af14815f-0c49-448c-b52e-b1215558fd90.svg" alt="StanislavSay's Language Stats" />
