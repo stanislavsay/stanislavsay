@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://github.com/stanislavsay">
-  <img src="https://github-readme-stats.vercel.app/api?username=stanislavsay&show_icons=true&theme=vue" alt="StanislavSay's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=stanislavsay&show_icons=true&theme=dark" alt="StanislavSay's GitHub Stats" />
 </a>
 
 ### Recently I'm coding in...
-
-<img src="https://wakatime.com/share/@StanislavSay/af14815f-0c49-448c-b52e-b1215558fd90.svg" alt="StanislavSay's Language Stats" />
+<figure><embed src="https://wakatime.com/share/@StanislavSay/9a5b8b31-b1db-466d-8974-bb757ac73d41.svg"></embed></figure>
