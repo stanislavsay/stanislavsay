@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 </a>
 
 ### Recently I'm coding in...
-<figure><img src="https://wakatime.com/share/@StanislavSay/84ee4fa9-870b-4c49-9505-d6255e11b2bd.svg" width="50%"></img></figure>
+<figure><img src="https://wakatime.com/share/@StanislavSay/84ee4fa9-870b-4c49-9505-d6255e11b2bd.svg" width="60%"></img></figure>
