@@ -14,9 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <a href="https://github.com/stanislavsay">
   <img src="https://github-readme-stats.vercel.app/api?username=stanislavsay&show_icons=true&theme=dark" alt="StanislavSay's GitHub Stats" />
 </a>
+
+<a href="https://wakatime.com/@3b3de136-ccd2-4368-9907-3d20a73ff47c"><img src="https://wakatime.com/badge/user/3b3de136-ccd2-4368-9907-3d20a73ff47c.svg" alt="Total time coded since Apr 18 2018" /></a>
 
 ### Recently I'm coding in...
 <figure><img src="https://wakatime.com/share/@StanislavSay/84ee4fa9-870b-4c49-9505-d6255e11b2bd.svg" width="60%"></img></figure>
